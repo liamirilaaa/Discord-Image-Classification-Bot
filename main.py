@@ -44,4 +44,4 @@ async def check(ctx):
     else:
         await ctx.send('You forgot to add the picture!')
 
-bot.run("MTE1NDgwMjgyOTcwMjIyMTgyNA.GKd-Pe.IuP3h9YnAxlZhSiraYdhc_QoRkFeC5EwdhWUXc")
+bot.run("")
